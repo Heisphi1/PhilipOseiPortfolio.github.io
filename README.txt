@@ -5,7 +5,7 @@ who I am, what I do, and some of the projects I've worked on. It’s a simple,
 clean site designed to reflect my style and showcase my skills.
 
 
-Tools Used:
+Tools:
 HTML, CSS
 
 Credit:
